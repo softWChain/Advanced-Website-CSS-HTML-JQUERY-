@@ -1,0 +1,31 @@
+
+/*Font family Ubuntu*/
+@font-face{
+    font-family: Ubuntu;
+    src:url("/Code/programming-13/font/Anton/Anton-Regular.ttf");
+}
+
+
+/*Font family Anton*/
+@font-face{
+    font-family: Anton;
+    src:url("/Code/programming-13/font/Anton/Anton-Regular.ttf");
+}
+
+/*Font family Josefin*/
+@font-face{
+    font-family: Josefin;
+    src:url("/Code/programming-13/font/Josefin_Sans/JosefinSans-VariableFont_wght.ttf");
+}
+
+/*Font family LexendDeca*/
+@font-face{
+    font-family: LexendDeca;
+    src:url("/Code/programming-13/font/Lexend_Deca/LexendDeca-Regular.ttf");
+}
+
+/*Font family Livvic*/
+@font-face{
+    font-family: Livvic;
+    src:url("/Code/programming-13/font/Livvic/Livvic-Regular.ttf");
+}
